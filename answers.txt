@@ -6,4 +6,6 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: This could be applied to public policy in order to create new policies based on data
 
+Q3: What is the difference between Merging and Rebasing?
 
+Answer: Merging preserves the history of both branches while rebasing moves a branches starting point on top of another
