@@ -9,3 +9,7 @@ Answer: This could be applied to public policy in order to create new policies b
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves the history of both branches while rebasing moves a branches starting point on top of another
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning a new coding language and applying it to future jobs
