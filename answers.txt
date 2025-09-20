@@ -1,3 +1,9 @@
+Q1: Why might we consider using Git?
+
+Answer: So that we can store/access our files over different devices
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: This could be applied to public policy in order to create new policies based on data
+
+
